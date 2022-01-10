@@ -1,0 +1,47 @@
+### YamlMime:Module
+uid: learn.fasttrackforazure.fundamentals
+metadata:
+  title: Explore Azure compute services
+  description: Learn about the different services that are available in Azure compute Prepare for AZ-900.
+  ms.date: 07/02/2021
+  author: wwlpublish
+  ms.author: rknapp
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+title: Explore Azure compute services
+summary: In this module, you'll learn how to take advantage of several virtualization services in Azure compute, which can help your applications scale out quickly and efficiently to meet increasing demands.
+abstract: |
+  After completing this module, you will:
+    - learning objective 1
+    - learning objective 2
+    - learning objective 3
+prerequisites: |
+  - You should be familiar with basic computing concepts and terminology.
+  - An understanding of cloud computing is helpful, but isn't necessary.
+iconUrl: /learn/achievements/azure-compute-fundamentals.svg
+levels:
+- beginner
+roles:
+- administrator
+- developer
+- solution-architect
+- student
+products:
+- azure
+- azure-app-service
+- azure-container-instances
+- azure-container-registry
+- azure-kubernetes-service
+- azure-virtual-machines
+units:
+- learn.fasttrackforazure.fundamentals.introduction
+- learn.fasttrackforazure.fundamentals.overview
+- learn.fasttrackforazure.fundamentals.azure-virtual-machines
+- learn.fasttrackforazure.fundamentals.azure-app-services
+- learn.fasttrackforazure.fundamentals.azure-container-services
+- learn.fasttrackforazure.fundamentals.azure-functions
+- learn.fasttrackforazure.fundamentals.windows-virtual-desktop
+- learn.fasttrackforazure.fundamentals.knowledge-check
+- learn.fasttrackforazure.fundamentals.summary
+badge:
+  uid: learn.fasttrackforazure.fundamentals.badge

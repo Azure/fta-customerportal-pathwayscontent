@@ -1,0 +1,31 @@
+### YamlMime:Module
+uid: learn.azure.azure-fundamentals-introduction
+metadata:
+  title: Introduction to Azure Fundamentals
+  description: Start your journey right. This module will guide you through the base level of knowledge to consume the rest of the content.
+  ms.date: 06/09/2021
+  author: Ricardo Martins
+  ms.author: ricmart
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+title: Explore Azure compute services
+summary: In this module, you'll learn how to take advantage of several virtualization services in Azure compute, which can help your applications scale out quickly and efficiently to meet increasing demands.
+abstract: |
+  After completing this module, you'll be able to describe:
+    - Azure , 
+    - Cloud Adoption Framework (CAF) and the Well Architected Framework.
+prerequisites: |
+  - This path has no prerequisites.
+levels:
+- beginner
+products:
+- azure
+units:
+- learn.azure.azure-fundamentals-introduction.introduction
+- learn.azure.azure-fundamentals-introduction.overview
+- learn.azure.azure-fundamentals-introduction.azure-virtual-machines
+- learn.azure.azure-fundamentals-introduction.azure-app-services
+- learn.azure.azure-fundamentals-introduction.azure-container-services
+- learn.azure.azure-fundamentals-introduction.azure-functions
+- learn.azure.azure-fundamentals-introduction.windows-virtual-desktop
+- learn.azure.azure-fundamentals-introduction.knowledge-check
